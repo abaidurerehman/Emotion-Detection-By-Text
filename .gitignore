@@ -1,0 +1,7 @@
+models/
+datasets/
+*.zip
+*.pkl
+*.h5
+*.mp4
+*.csv
