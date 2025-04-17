@@ -61,20 +61,6 @@ python train.py
 python predict.py --text "I'm so happy but also a bit nervous!"
 ```
 
----
-
-## 📁 Directory Structure
-
-```
-emotion-detection/
-├── data/                   # Preprocessed dataset
-├── emotion_bert/           # Fine-tuned model and tokenizer
-├── utils/                  # Helper functions
-├── train.py                # Model training script
-├── predict.py              # Inference script
-├── requirements.txt
-└── README.md
-```
 
 ---
 
