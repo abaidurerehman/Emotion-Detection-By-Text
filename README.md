@@ -1,5 +1,3 @@
-
-```markdown
 # Multi-Label Emotion Recognition from Text 🎭🧠
 
 This project focuses on building a robust system to classify **multiple emotions** (e.g., joy, sadness, anger) from **textual input** using state-of-the-art transformer models.
